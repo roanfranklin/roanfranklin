@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roanfranklin)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin)](https://github.com/roanfranklin/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin&hide=contribs,prs)
@@ -25,4 +27,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roanfranklin&repo=github-readme-stats)](https://github.com/roanfranklin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roanfranklin&langs_count=10)](https://github.com/roanfranklin/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roanfranklin&repo=remf_cloudtools)](https://github.com/roanfranklin/github-readme-stats)
