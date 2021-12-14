@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roanfranklin)](https://git.io/streak-stats)
 
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roanfranklin&repo=remf_cloudtools)](https://github.com/roanfranklin/github-readme-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roanfranklin&langs_count=10)](https://github.com/roanfranklin/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roanfranklin&repo=remf_cloudtools)](https://github.com/roanfranklin/github-readme-stats)
 
