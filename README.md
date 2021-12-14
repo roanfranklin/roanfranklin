@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 -->
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin&show_icons=true)
 
