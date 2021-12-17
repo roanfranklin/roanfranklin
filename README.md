@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin&show_icons=true)
+
 <!--
 **roanfranklin/roanfranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,11 +28,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roanfranklin&repo=remf_cloudtools)](https://github.com/roanfranklin/github-readme-stats)
 
-
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roanfranklin&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roanfranklin&langs_count=10)](https://github.com/roanfranklin)
 
-
+-->
