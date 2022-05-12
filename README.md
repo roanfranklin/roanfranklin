@@ -19,6 +19,7 @@
   <a href="https://kubernetes.io/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="36" height="36" alt="Kubernetes" /></a> 
   <a href="http://https://helm.sh/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/white/helm-icon-white.svg" width="36" height="36" alt="Helm" /></a>
   <a href="https://www.docker.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_docker.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://traefik.io/" target="blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/CcZdW37UcAA9DZz.png" width="36" height="36" alt="Traefik" /></a>
   
 </p>
 
