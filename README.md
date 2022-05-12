@@ -21,7 +21,7 @@
   <a href="https://www.docker.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_docker.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://traefik.io/" target="blank" rel="noreferrer"><img src="https://pbs.twimg.com/media/CcZdW37UcAA9DZz.png" width="36" height="36" alt="Traefik" /></a>
   <a href="https://www.hashicorp.com/products/vault" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/docker-library/docs/90d4d43bdfccd5cb21e5fd964d32b0074af0f357/vault/logo.svg?sanitize=true" width="36" height="36" alt="Vault" /></a>
-  
+  <a href="https://chaos-mesh.org/" target="blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/chaosmesh/icon/white/chaosmesh-icon-white.png" width="36" height="36" alt="Chaos Mesh" /></a>
 </p>
 
 #### Contacts
