@@ -9,7 +9,7 @@
 #### Skills
 
 <p align="left">
-  <a href="https://www.python.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png" width="36" height="36" alt="Linux" /></a>
+  <a href="https://linuxfoundation.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png" width="36" height="36" alt="Linux" /></a>
   <a href="https://www.python.org/" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/40724492/167221271-ab70b7fd-d1e2-4984-b2b3-87b17529c7ed.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.postgresql.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/40724492/167221825-c9472f7d-56dd-4a7c-bb52-53b5f4333b53.svg" width="36" height="36" alt="MySQL" /></a>
