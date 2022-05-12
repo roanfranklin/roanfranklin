@@ -16,7 +16,8 @@
   <a href="http://aws.amazon.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_aws.svg" width="36" height="36" alt="AWS" /></a>
   <a href="http://gcp.google.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_gcp.svg" width="36" height="36" alt="GCP" /></a>
   <a href="http://terraform.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_terraform.svg" width="36" height="36" alt="Terraform" /></a>  
-  <a href="http://kubernetes.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="36" height="36" alt="Kubernetes" /></a>  
+  <a href="http://kubernetes.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="36" height="36" alt="Kubernetes" /></a> 
+  <a href="http://https://helm.sh/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/white/helm-icon-white.svg" width="36" height="36" alt="Helm" /></a>
   <a href="http://docker.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_docker.svg" width="36" height="36" alt="Docker" /></a>
   
 </p>
