@@ -6,9 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roanfranklin&layout=compact&langs_count=10&theme=dark">
 </div>
 
+ ---
 #### Skills
 
-<p align="left">
+<p align="center">
   <a href="https://linuxfoundation.org/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/202px-Tux.svg.png" width="36" height="36" alt="Linux" /></a>
   <a href="https://www.python.org/" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/40724492/167221271-ab70b7fd-d1e2-4984-b2b3-87b17529c7ed.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.postgresql.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -24,9 +25,10 @@
   <a href="https://chaos-mesh.org/" target="blank" rel="noreferrer"><img src="https://cncf-branding.netlify.app/img/projects/chaosmesh/icon/white/chaosmesh-icon-white.png" width="36" height="36" alt="Chaos Mesh" /></a>
 </p>
 
+---
 #### Contacts
   
-<div> 
+<div align="center">
   <a href = "mailto:roanfranklin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roan-franklin-2195a2105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.remf.com.br/" target="_blank"><img src="https://img.shields.io/badge/-REMF-lightgrey?style=for-the-badge&logo=appveyore" target="_blank"></a> 
