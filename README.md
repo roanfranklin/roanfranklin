@@ -24,6 +24,7 @@
   <a href="https://www.hashicorp.com/products/vault" target="blank" rel="noreferrer"><img src="https://github.com/roanfranklin/roanfranklin/raw/main/images/vault.png" width="36" height="36" alt="Vault" /></a>
   <a href="https://chaos-mesh.org/" target="blank" rel="noreferrer"><img src="https://github.com/roanfranklin/roanfranklin/raw/main/images/chaosmesh-icon-white.png" width="36" height="36" alt="Chaos Mesh" /></a>
   <a href="https://rancher.com/" target="blank" rel="noreferrer"><img src="https://github.com/roanfranklin/roanfranklin/raw/main/images/rancher.png" width="36" height="36" alt="Rancher" /></a>
+  <a href="https://www.ansible.com/" target="blank" rel="noreferrer"><img src="https://github.com/roanfranklin/roanfranklin/raw/main/images/ansible.png" width="36" height="36" alt="Ansible" /></a>
 </p>
 
 ---
