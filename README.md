@@ -35,3 +35,7 @@
   <a href="https://www.linkedin.com/in/roan-franklin-2195a2105/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.remf.com.br/" target="_blank"><img src="https://img.shields.io/badge/-REMF-lightgrey?style=for-the-badge&logo=appveyore" target="_blank"></a> 
 </div>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/roanfranklin/roanfranklin/main/images/github-contribution-grid-snake.svg)
