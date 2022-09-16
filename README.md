@@ -16,6 +16,7 @@
   <a href="https://www.mysql.com/" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/40724492/167221825-c9472f7d-56dd-4a7c-bb52-53b5f4333b53.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://aws.amazon.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_aws.svg" width="36" height="36" alt="AWS" /></a>
   <a href="https://cloud.google.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_gcp.svg" width="36" height="36" alt="GCP" /></a>
+  <a href="https://azure.microsoft.com/pt-br/" target="blank" rel="noreferrer"><img src="https://github.com/roanfranklin/roanfranklin/raw/main/images/azure.png" width="36" height="36" alt="AZURE" /></a>
   <a href="https://www.terraform.io/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/samloh84/svg-devops-logos/master/logos_terraform.svg" width="36" height="36" alt="Terraform" /></a>
   <a href="https://kubernetes.io/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="36" height="36" alt="Kubernetes" /></a> 
   <a href="http://https://helm.sh/" target="blank" rel="noreferrer"><img src="https://github.com/roanfranklin/roanfranklin/raw/main/images/helm-icon-white.png" width="36" height="36" alt="Helm" /></a>
